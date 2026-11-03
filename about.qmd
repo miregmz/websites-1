@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "A New Website, second edition"
 ---
 
 About this site
